@@ -4,13 +4,13 @@ Simple node express app that fetches character information from SWAPI (https://s
 
 Deployment instructions
 
-1.In the command line for the root directory (react-backend) run: npm install
+1.In the command line for the root directory run: npm install
 
 2.After all packages have been installed, start the express server from the same directory (react-backend): npm start
 
-3.Change the directory to react-backend\people (this is the frontend part of the app) and run: npm install in command line for this directory.
+3.Change the directory to \people (this is the frontend part of the app) and run: npm install in command line for this directory.
 
-4.After all packages have been installed, start the app from the same directory (react-backend\people): npm start
+4.After all packages have been installed, start the app from the same directory (\people): npm start
 
 5.Now you can see the 'Star Wars People' app in the browser at the address http://localhost:3000/
 
